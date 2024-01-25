@@ -2,8 +2,8 @@ pandoc: 2.19.2
 pkgdown: 2.0.7
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-01-25T16:20Z
+last_built: 2024-01-25T19:42Z
 urls:
-  reference: https://beansrowning.github.io/source-attribution-MLST/reference
-  article: https://beansrowning.github.io/source-attribution-MLST/articles
+  reference: https://ncezid-biome.github.io/source-attribution-MLST/reference
+  article: https://ncezid-biome.github.io/source-attribution-MLST/articles
 
